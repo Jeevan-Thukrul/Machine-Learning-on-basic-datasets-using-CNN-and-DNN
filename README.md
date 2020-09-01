@@ -10,4 +10,4 @@
 
 ### Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit
 ## App Output
-![alt text](Output/2173244_CIFAR10_CNN.gif)
+![alt text](https://github.com/Jeevan-Thukrul/Hand-Written-Digit-Recognition-MNIST-DNN-GUI-using-Streamlit/blob/edf0b82312d577c12a79a6f334fdb530fd1583a5/Output/2173244_MNIST_DNN.gif)
